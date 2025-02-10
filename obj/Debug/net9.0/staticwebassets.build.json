@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "PXDiJK4XHHBky40cT35+TAnHOQ4gqEtbWYlw7KnuOXE=",
+  "Source": "app-poc",
+  "BasePath": "_content/app-poc",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
