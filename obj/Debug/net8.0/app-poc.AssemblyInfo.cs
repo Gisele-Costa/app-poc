@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("app-poc")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+24a18eef144c06c219a2309c6a435f57615535b2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a8f7687dbb41c4f1cecbc8269ea343ef66b9fb1c")]
 [assembly: System.Reflection.AssemblyProductAttribute("app-poc")]
 [assembly: System.Reflection.AssemblyTitleAttribute("app-poc")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
