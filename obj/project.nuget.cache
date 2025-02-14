@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "I0lADu3gBs8=",
+  "dgSpecHash": "6/v25NqBOdQ=",
   "success": true,
   "projectFilePath": "C:\\Users\\gisele.da.costa.melo\\Desktop\\GISELE\\Estudos DevOps\\Estudos Actions\\app-poc\\app-poc\\app-poc.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\gisele.da.costa.melo\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.1\\microsoft.aspnetcore.openapi.9.0.1.nupkg.sha512",
+    "C:\\Users\\gisele.da.costa.melo\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.0\\microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",
     "C:\\Users\\gisele.da.costa.melo\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
   ],
   "logs": []

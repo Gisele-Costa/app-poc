@@ -1,0 +1,9 @@
+C:\Users\gisele.da.costa.melo\Desktop\GISELE\Estudos DevOps\Estudos Actions\app-poc\app-poc\out\app-poc.exe
+C:\Users\gisele.da.costa.melo\Desktop\GISELE\Estudos DevOps\Estudos Actions\app-poc\app-poc\out\appsettings.Development.json
+C:\Users\gisele.da.costa.melo\Desktop\GISELE\Estudos DevOps\Estudos Actions\app-poc\app-poc\out\appsettings.json
+C:\Users\gisele.da.costa.melo\Desktop\GISELE\Estudos DevOps\Estudos Actions\app-poc\app-poc\out\app-poc.dll
+C:\Users\gisele.da.costa.melo\Desktop\GISELE\Estudos DevOps\Estudos Actions\app-poc\app-poc\out\app-poc.deps.json
+C:\Users\gisele.da.costa.melo\Desktop\GISELE\Estudos DevOps\Estudos Actions\app-poc\app-poc\out\app-poc.runtimeconfig.json
+C:\Users\gisele.da.costa.melo\Desktop\GISELE\Estudos DevOps\Estudos Actions\app-poc\app-poc\out\app-poc.pdb
+C:\Users\gisele.da.costa.melo\Desktop\GISELE\Estudos DevOps\Estudos Actions\app-poc\app-poc\out\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\gisele.da.costa.melo\Desktop\GISELE\Estudos DevOps\Estudos Actions\app-poc\app-poc\out\Microsoft.OpenApi.dll
