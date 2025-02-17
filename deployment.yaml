@@ -1,0 +1,21 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+ name: app-poc
+spec:
+ replicas: 1
+ selector:
+   matchLabels:
+     app: app-poc
+ template:
+   metadata:
+     labels:
+       app: app-poc
+   spec:
+     containers:
+       - name: app-poc
+         image: ghcr.io/gisele-costa/app-poc:latest
+         ports:
+           - containerPort: 80
+         imagePullSecrets:
+           - name: ghcr-secret
